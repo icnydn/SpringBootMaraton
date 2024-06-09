@@ -16,4 +16,5 @@ public class RestApis {
     public static final String GETALLBYBEDEN = "/get-by-beden";
     public static final String GETALLBYCINSIYET = "/get-by-cinsiyet";
     public static final String OZELLIKLISTESI = "/ozellik-listesi";
+
 }
